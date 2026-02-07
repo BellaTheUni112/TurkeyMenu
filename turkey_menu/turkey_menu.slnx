@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="turkey_menu/turkey_menu.vcxproj" Id="0cd14dd4-d4f2-4470-8205-30a33c4c2ac3" />
+</Solution>

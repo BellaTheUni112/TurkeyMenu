@@ -1,0 +1,17 @@
+G:\VS Projects\turkey_menu\turkey_menu\external\imgui\imgui.cpp;G:\VS Projects\turkey_menu\build\intermediates\imgui.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\imgui\imgui_demo.cpp;G:\VS Projects\turkey_menu\build\intermediates\imgui_demo.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\imgui\imgui_draw.cpp;G:\VS Projects\turkey_menu\build\intermediates\imgui_draw.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\imgui\imgui_impl_dx11.cpp;G:\VS Projects\turkey_menu\build\intermediates\imgui_impl_dx11.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\imgui\imgui_impl_win32.cpp;G:\VS Projects\turkey_menu\build\intermediates\imgui_impl_win32.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\imgui\imgui_tables.cpp;G:\VS Projects\turkey_menu\build\intermediates\imgui_tables.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\imgui\imgui_widgets.cpp;G:\VS Projects\turkey_menu\build\intermediates\imgui_widgets.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\minhook\buffer.c;G:\VS Projects\turkey_menu\build\intermediates\buffer.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\minhook\hde\hde32.c;G:\VS Projects\turkey_menu\build\intermediates\hde32.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\minhook\hde\hde64.c;G:\VS Projects\turkey_menu\build\intermediates\hde64.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\minhook\hook.c;G:\VS Projects\turkey_menu\build\intermediates\hook.obj
+G:\VS Projects\turkey_menu\turkey_menu\external\minhook\trampoline.c;G:\VS Projects\turkey_menu\build\intermediates\trampoline.obj
+G:\VS Projects\turkey_menu\turkey_menu\src\core\hooks.cpp;G:\VS Projects\turkey_menu\build\intermediates\hooks.obj
+G:\VS Projects\turkey_menu\turkey_menu\src\core\interfaces.cpp;G:\VS Projects\turkey_menu\build\intermediates\interfaces.obj
+G:\VS Projects\turkey_menu\turkey_menu\src\core\menu.cpp;G:\VS Projects\turkey_menu\build\intermediates\menu.obj
+G:\VS Projects\turkey_menu\turkey_menu\src\dll_main.cpp;G:\VS Projects\turkey_menu\build\intermediates\dll_main.obj
+G:\VS Projects\turkey_menu\turkey_menu\src\sdk\memory_utils.cpp;G:\VS Projects\turkey_menu\build\intermediates\memory_utils.obj
